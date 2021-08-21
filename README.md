@@ -1,2 +1,4 @@
-# PyPet
-Documentación de PyPet (PyPetJS, PyPet.Py y PyPetOS)
+# Initial page
+
+Documentación de PyPet \(PyPetJS, PyPet.Py y PyPetOS\)
+
