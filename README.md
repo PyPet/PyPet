@@ -1,7 +1,7 @@
 ---
 description: 'Documentación de PyPet (PyPetJS, PyPet.Py y PyPetOS)'
 ---
-
+# Abandoned / Abandonado
 # PyPet
 
 ## Repositorios:
